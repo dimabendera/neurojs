@@ -1,0 +1,5 @@
+.idea/*
+node_modules/*
+
+Mask_RCNN
+py/rest/cofig/default.json
